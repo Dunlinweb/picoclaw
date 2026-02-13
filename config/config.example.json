@@ -75,11 +75,11 @@
       "api_base": ""
     },
     "gemini": {
-      "api_key": "",
+      "api_key": "AIzaSyBFfCt8oC6zmE7QVzQ0wdO85XQuW5h9qLE",
       "api_base": ""
     },
     "vllm": {
-      "api_key": "AIzaSyBFfCt8oC6zmE7QVzQ0wdO85XQuW5h9qLE",
+      "api_key": "",
       "api_base": ""
     },
     "nvidia": {
