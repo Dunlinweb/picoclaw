@@ -2,7 +2,7 @@
     "agents": {
         "defaults": {
             "workspace": "~/.picoclaw/workspace",
-            "model": "arcee-ai/trinity-large-preview:free",
+            "model": "gemini-1.5-pro",
             "max_tokens": 8192,
             "temperature": 0.7,
             "max_tool_iterations": 20
@@ -18,7 +18,7 @@
         },
         "discord": {
             "enabled": true,
-            "token": "YOUR_DISCORD_BOT_TOKEN",
+            "token": "MTQ3MTgyNTE3NzI5NjkwMDIwNw.GiMhIE.j2na2Hp01M5_Q078mRw7-SUYb3Nw3qWN6VSMnM",
             "allow_from": []
         },
         "maixcam": {
@@ -58,12 +58,9 @@
             "api_key": "gsk_xxx",
             "api_base": ""
         },
-        "zhipu": {
-            "api_key": "YOUR_ZHIPU_API_KEY",
-            "api_base": ""
-        },
+        
         "gemini": {
-            "api_key": "",
+            "api_key": "AIzaSyBFfCt8oC6zmE7QVzQ0wdO85XQuW5h9qLE",
             "api_base": ""
         },
         "vllm": {
