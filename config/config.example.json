@@ -17,8 +17,8 @@
       "allow_from": ["YOUR_USER_ID"]
     },
     "discord": {
-      "enabled": false,
-      "token": "YOUR_DISCORD_BOT_TOKEN",
+      "enabled": true,
+      "token": "MTQ3MTgyNTE3NzI5NjkwMDIwNw.GiMhIE.j2na2Hp01M5_Q078mRw7-SUYb3Nw3qWN6VSMnM",
       "allow_from": []
     },
     "maixcam": {
